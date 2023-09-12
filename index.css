@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo {
+    height: 150px;
+    width: 220px;
+}
+
+.anchor {
+    font-size: 30px;
+}
+
+.bar {
+    font-size: 50px;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 55px;
+}
+
+.main-con {
+    display: flex;
+    justify-content: center;
+}
+
+.sub-con {
+    border: solid 3px green;
+    padding: 5px;
+    border-radius: 20px;
+    margin: 15px;
+}
+
+.sub-con1 {
+    border: solid 1px grey;
+    padding: 5px;
+    border-radius: 20px;
+    margin: 15px;
+}
+
+span {
+    font-size: 20px;
+    background-color: #1cfcb9;
+
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.price {
+    font-size: 80px;
+    margin-left: 60px;
+}
+
+.price-con {
+    display: flex;
+    align-items: center;
+}
+
+.date {
+    text-align: center;
+    background-color: #b1f0c1;
+    padding: 10px;
+    ;
+    border: grey 1px solid;
+}
+
+.list {
+    font-size: 20px;
+}
+
+.list-item {
+    margin: 15px;
+    font-size: 20px;
+}
+
+.list-con {
+    margin: 50px;
+    margin-top: 80px;
+}
+
+.button {
+    background-color: black;
+    color: white;
+    height: 60px;
+    width: 220px;
+    border-radius: 40px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+}
+
+.pay-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #1cfcb9;
+    border-radius: 55px;
+    margin: 60px;
+
+}
+
+.pay {
+    background-color: black;
+    color: white;
+    border-radius: 35px;
+    padding: 15px;
+    margin: 10px;
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+}
+
+.nav-items {
+    margin-right: 25px;
+    margin-left: 25px;
+    text-decoration: none;
+    font-size: 26px;
+    color: black;
+}
+
+.nav-items:hover {
+    background-color: #1cfcb9;
+    color: white;
+}
+
+.sub-con:hover {
+    background-color: #1cfcb9;
+}
+
+
+.main-container {
+    background-image: linear-gradient(to right, #fafafc, #ddf2ff, #a4f0ff, #56f0fc, #12ebcc);
+}
